@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI is the simulation of human intelligence in machines."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine learning is a subset of AI where systems learn from data."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep learning is a subset of ML using neural networks with many layers."
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "answer": "NLP is a field of AI focused on interaction between computers and human language."
+  },
+  {
+    "question": "What is Computer Vision?",
+    "answer": "Computer vision enables machines to interpret and process visual information."
+  },
+  {
+    "question": "What is Reinforcement Learning?",
+    "answer": "Reinforcement learning is a type of ML where agents learn through trial and error."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is training a model on labeled data."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning finds patterns in unlabeled data."
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a model inspired by the human brain, used to recognize patterns."
+  },
+  {
+    "question": "What is the difference between AI and ML?",
+    "answer": "AI is the broader concept, while ML is a subset of AI."
+  }
+]
